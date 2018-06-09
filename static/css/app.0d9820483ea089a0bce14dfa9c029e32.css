@@ -1,0 +1,33 @@
+
+#app[data-v-2d02bd1c] {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+html[data-v-2d02bd1c] {
+  min-height: 100vh;
+}
+*[data-v-2d02bd1c] {
+  transition: all .3s;
+}
+
+.code[data-v-7770a31a] {
+  display: none;
+}
+
+.htmlMode[data-v-58d9090e] {
+  animation: flip 2s;
+}
+@keyframes flip {
+from {
+    opacity: 0;
+}
+to {
+    opacity: 1;
+}
+}
+*{margin: 0; padding: 0;}
+*{box-sizing: border-box;}
+*::before{box-sizing: border-box;}
+*::after{box-sizing: border-box;}
+/*# sourceMappingURL=app.0d9820483ea089a0bce14dfa9c029e32.css.map*/
